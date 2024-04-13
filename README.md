@@ -4,12 +4,8 @@
 
 ## Create React project using vite
 Create All the project using vite, Vite is a next-generation font-end tool that focuses on speed and performance
-</br>
-<a href="https://vitejs.dev/guide/" target="_blank">Visite Vite</a>
-</br>
 
-**Step  : setup React using vite in Vs code**
-</br>
+**Steps: setup React using vite in Vs code**
 1. npm create vite@latest
 </br>
 2 . Given Project name
@@ -21,3 +17,11 @@ Create All the project using vite, Vite is a next-generation font-end tool that 
 5 . Go to the file as - Cd Project name
 </br>
 6 . npm install
+</br>
+
+**Website which use React**:
+ [Vite](https://vitejs.dev/guide/)
+ [TailWind](https://tailwindcss.com/docs/guides/vite)
+
+
+
