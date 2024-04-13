@@ -3,12 +3,12 @@
 # All the React project basic to Advance
 
 ## Create React project using vite
-</br>
 Create All the project using vite, Vite is a next-generation font-end tool that focuses on speed and performance
 </br>
 <a href="https://vitejs.dev/guide/" target="_blank">Visite Vite</a>
 </br>
-Step  : setup React using vite in Vs code
+
+**Step  : setup React using vite in Vs code**
 </br>
 1. npm create vite@latest
 </br>
