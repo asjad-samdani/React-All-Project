@@ -7,7 +7,6 @@ Create All the project using vite, Vite is a next-generation font-end tool that 
 
 **Steps: setup React using vite in Vs code**
 1. npm create vite@latest
-</br>
 2 . Given Project name
 </br>
 3 . Choose React 
