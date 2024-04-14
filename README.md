@@ -6,7 +6,9 @@
 Create All the project using vite, Vite is a next-generation font-end tool that focuses on speed and performance
 
 **Steps: setup React using vite in Vs code**
-1. npm create vite@latest
+
+1 . npm create vite@latest
+</br>
 2 . Given Project name
 </br>
 3 . Choose React 
